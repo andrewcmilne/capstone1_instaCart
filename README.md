@@ -22,5 +22,7 @@ A few things I did to better understand and relate the data are worth noting.  A
 
 - the raw data comes with a column 'reorderd' that indicates whether or not the user bought the same product again.  In order to make this meaningful I had to create a new dataframe that put this in terms of each department and product as '%reordered'.
 
+- took the mean of reordered by product and excluded items that were purchased a small number of times, <40
+
 After making these changes and additions to the dataset I feel prepared to gain insights that will support the objective of developing a model to predcit purchases.
 
