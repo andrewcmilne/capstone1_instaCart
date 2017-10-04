@@ -26,3 +26,4 @@ A few things I did to better understand and relate the data are worth noting.  A
 
 After making these changes and additions to the dataset I feel prepared to gain insights that will support the objective of developing a model to predcit purchases.
 
+https://www.kaggle.com/c/instacart-market-basket-analysis
